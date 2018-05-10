@@ -5,8 +5,6 @@ function happyHolidays(){
 
 function happyHolidaysTo(){
 
-  if (string("name")){
-
   return(happyHolidays(`, ${name}!`))
 
   }
