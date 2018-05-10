@@ -5,6 +5,7 @@ function happyHolidays(){
 
 function happyHolidaysTo(){
 
-  return(happyHolidays(`, ${name}!`))
+  if 
+  return(`Happy holidays, ${name}!`))
 
 }
