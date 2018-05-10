@@ -7,7 +7,7 @@ function happyHolidaysTo(){
 
   if (string("name")){
 
-  return(happyHolidays(`${name}!`))
+  return(happyHolidays(`, ${name}!`))
 
   }
 }
